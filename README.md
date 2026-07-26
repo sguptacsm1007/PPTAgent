@@ -1,5 +1,5 @@
 # ProjectDescription
-This project is created using google adk and uses a sequential agent approach to first gather information from web using search agent and then translate the information into ppt for consumption
+This project is created using google adk and uses a [Sequential Agent](https://adk.dev/agents/workflow-agents/sequential-agents/) approach to first gather information from web using search agent and then translate the information into ppt for consumption
 
 
 ## Deployment to Vertex AI
